@@ -15,6 +15,49 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "La Mesa": {
+    "width": 640,
+    "height": 360,
+    "backgroundImage": "LaMesa_bg.jpg",
+    "captionFont": "400 26px 'Source Sans Pro'",
+    "captionLineHeight": 26,
+    "maxDuration": 3600,
+    "foregroundColor": "white",
+    "captionAlign": "left",
+    "captionTop": 30,
+    "captionRight": 610,
+    "captionLeft": 270,
+    "pattern": "bars",
+    "waveTop": 200,
+    "waveBottom": 350
+  },
+  "Contrapoder": {
+    "width": 640,
+    "height": 360,
+    "backgroundImage": "Contrapoder_bg.jpg",
+    "captionFont": "400 26px 'Source Sans Pro'",
+    "captionLineHeight": 26,
+    "maxDuration": 3600,
+    "foregroundColor": "white",
+    "captionAlign": "left",
+    "captionTop": 30,
+    "captionRight": 610,
+    "captionLeft": 270,
+    "pattern": "bars",
+    "waveTop": 200,
+    "waveBottom": 350
+  },
+  "Univision": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "univision.jpg",
+    "pattern": "bars",
+    "foregroundColor": "#2358bf",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
@@ -50,16 +93,6 @@
     "captionRight": 640,
     "captionBottom": 660,
     "captionTop": null
-  },
-  "Line": {
-    "backgroundColor": "#edc951",
-    "foregroundColor": "#00a0b0",
-    "pattern": "line"
-  },
-  "Curve": {
-    "backgroundColor": "#00a0b0",
-    "foregroundColor": "#edc951",
-    "pattern": "curve"
   },
   "Bricks": {
     "backgroundColor": "#8771aa",
@@ -102,4 +135,5 @@
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
   }
+  
 }
